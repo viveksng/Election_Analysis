@@ -11,6 +11,9 @@ The following code is to get the tweets from the twitter(A social Network).These
 ## Creating an Twitter Api
 To create a Api click here [Twitter_Api](https://apps.twitter.com/)
 
+## machine learning algo
+it is the part of election analysis by using Naive bayes classifer from data set of 30000 taken as primary data. This is able to predict the possibility of ruling party.
+
 ## Installation and Running the program
 	*Clone the github repository
 	git clone https://github.com/
